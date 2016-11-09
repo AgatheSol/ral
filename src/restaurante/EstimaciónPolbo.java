@@ -29,7 +29,7 @@ public class EstimaciónPolbo {
     }
 
     public void getClientes() {
-        System.out.println(" A cantidade de clientes que pode recibir o restaurante e "+((polbo+patacas*3)/2);
+        System.out.println(" A cantidade de clientes que pode recibir o restaurante e "+((polbo+patacas*3)/2));
                
     }
        
