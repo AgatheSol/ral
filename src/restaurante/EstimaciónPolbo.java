@@ -3,7 +3,7 @@ package restaurante;
 
 
 public class EstimaciónPolbo {
-    
+    private int jala;
     private int clientes;
     private int polbo,patacas;
     
